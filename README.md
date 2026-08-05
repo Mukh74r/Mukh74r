@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+thajudheen;%24+cat+skills.txt;%3E+full-stack+%7C+security+%7C+ai;%24+sudo+./deploy+--prod;%3E+Ship+it." alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Mukh74r;%24+cat+skills.txt;%3E+full-stack+%7C+security+%7C+ai;%24+sudo+./deploy+--prod;%3E+Ship+it." alt="Terminal Typing" />
 </a>
 
 <br/><br/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ospoks&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Mukh74r&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## 🧠 &nbsp; About Me
+## 🧠   About Me
 
 **`Full-Stack Developer · Security Engineer · AI Builder`**
 
@@ -60,14 +60,11 @@
 
 <br/>
 
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
 
-## 🛠️ &nbsp; Tech Stack
+## 🛠️   Tech Stack
 
 <img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
 <br/>
@@ -241,29 +238,29 @@
 
 <br/>
 
-## 📊 &nbsp; GitHub Stats
+## 📊   GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospoks&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7C3AED" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukh74r&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7C3AED" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ospoks&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=75C3FD&currStreakLabel=7C3AED&border_radius=12&dates=888" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukh74r&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=75C3FD&currStreakLabel=7C3AED&border_radius=12&dates=888" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ospoks&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukh74r&theme=tokyonight" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ospoks&theme=tokyonight" width="24%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ospoks&theme=tokyonight" width="24%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ospoks&theme=tokyonight" width="24%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ospoks&theme=tokyonight&utcOffset=5.5" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukh74r&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukh74r&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukh74r&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukh74r&theme=tokyonight&utcOffset=5.5" width="24%" />
 </div>
 
 <br/>
@@ -275,7 +272,6 @@
 </div>
 
 <br/>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
