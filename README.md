@@ -54,7 +54,7 @@
     <td>🌍</td><td>Based in <b>India</b> · Shipping globally</td>
   </tr>
   <tr>
-    <td>⚡</td><td colspan="3"><i>Principle: efficiency over complexity — always.</i></td>
+    <td>⚡</td><td colspan="3"><i>Principle: efficiency over complexity.</i></td>
   </tr>
 </table>
 
