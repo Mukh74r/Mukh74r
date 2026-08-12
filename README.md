@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## 🧠   About Me 
+## 🧠  About Me 
 
 **`Full-Stack Developer · Security Engineer · AI Builder`**
 
