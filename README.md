@@ -441,7 +441,7 @@ alt="TryHackMe Profile"
 <sub>
 <b>⚡ FULL-STACK</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<b>🛡️ SECURITY</b>
+<b>🛡️ SECURITY </b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <b>🤖 AI</b>
 &nbsp;&nbsp;•&nbsp;&nbsp;
