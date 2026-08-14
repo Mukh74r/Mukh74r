@@ -380,7 +380,7 @@ alt="GitHub Contribution Activity"
 
 <br/>
 
-# 🧩 Security Profile
+# 🧩 Security Profiles
 
 <div align="center">
 
