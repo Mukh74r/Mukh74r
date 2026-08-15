@@ -126,35 +126,27 @@ $ cat << 'EOF' > profile.md
 
 <div align="center">
 
-  <!-- Stats Grid -->
-  <table align="center">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Mukh74r">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mukh74r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Mukh74r">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mukh74r&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="Top Languages" width="370" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/Mukh74r">
-          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mukh74r&theme=tokyonight&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681&hide_border=true" alt="Streak Stats" width="95%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukh74r&bg_color=0D1117&color=8B949E&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=10&days=35" alt="Contribution Graph" width="95%" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Mukh74r">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mukh74r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mukh74r">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mukh74r&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="Top Languages" height="175" />
+  </a>
 
-  <br/>
+  <br/><br/>
+
+  <a href="https://github.com/Mukh74r">
+    <img src="https://streak-stats.demolab.com/?user=Mukh74r&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681" alt="GitHub Contribution Streak" width="95%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/Mukh74r">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukh74r&bg_color=0D1117&color=8B949E&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=10&days=35" alt="Contribution Activity Graph" width="95%" />
+  </a>
+
+  <br/><br/>
 
   <!-- TryHackMe Badge -->
   <a href="https://tryhackme.com/p/ospoks" target="_blank">
