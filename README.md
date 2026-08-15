@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/GitHub-Mukh74r-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://ko-fi.com/mukh74r" target="_blank">
+  <a href="https://ko-fi.com/MUKH74R" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
   &nbsp;
@@ -180,9 +180,11 @@ $ cat << 'EOF' > profile.md
   <a href="https://github.com/Mukh74r" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%40Mukh74r-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
-  <a href="https://ko-fi.com/mukh74r" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+
+  <br/><br/>
+
+  <a href="https://ko-fi.com/MUKH74R" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" height="36" />
   </a>
 
   <br/><br/>
