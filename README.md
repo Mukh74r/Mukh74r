@@ -184,7 +184,7 @@ $ cat << 'EOF' > profile.md
   <br/><br/>
 
   <a href="https://ko-fi.com/MUKH74R" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" height="36" />
+    <img src="https://raw.githubusercontent.com/Mukh74r/Mukh74r/main/assets/kofi/support-me-1.gif" alt="Support Me on Ko-fi" height="48" />
   </a>
 
   <br/><br/>
