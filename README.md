@@ -143,7 +143,7 @@ $ cat << 'EOF' > profile.md
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/Mukh74r">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukh74r&theme=tokyonight&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681&hide_border=true" alt="Streak Stats" width="95%" />
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mukh74r&theme=tokyonight&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681&hide_border=true" alt="Streak Stats" width="95%" />
         </a>
       </td>
     </tr>
