@@ -3,14 +3,14 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:061a0d,70:083c16,100:00FF41&height=220&section=header&text=Thajudheen&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Thajudheen Header Banner" />
 
-  <!-- Terminal Typing Effect -->
-  <a href="https://git.io/typing-svg">
+  <!-- Terminal Typing Animation -->
+  <a href="https://github.com/Mukh74r">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Thajudheen+(Mukh74r);%24+cat+focus.json+%E2%86%92+Full-Stack+%7C+AppSec+%7C+AI+Systems;%24+sudo+ship+--prod+%E2%86%92+Build.+Break.+Secure.+Repeat.;%24+status+%E2%86%92+Exploring+cutting-edge+tech+%26+shipping+fast." alt="Terminal Typing Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- Quick Badges / Socials -->
+  <!-- Quick Action Badges -->
   <a href="https://thajudheen.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" />
   </a>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-ospoks-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mukh74r&color=00FF41&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mukh74r&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -50,7 +50,7 @@ $ cat << 'EOF' > profile.md
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      🔭 <b>Currently Building:</b> Scalable web apps, AI agentic pipelines & SecOps automation
+      🔭 <b>Currently Building:</b> Scalable web platforms, AI agentic systems & SecOps automation
     </td>
     <td width="50%">
       🛡️ <b>Security Focus:</b> AppSec, penetration testing, network forensics & hardening
@@ -61,7 +61,7 @@ $ cat << 'EOF' > profile.md
       🤖 <b>AI & ML:</b> Fine-tuning LLMs (Unsloth, PEFT), RAG workflows & local inference
     </td>
     <td width="50%">
-      🌍 <b>Location:</b> India · Open to global remote collaboration & challenges
+      🌍 <b>Location:</b> India · Open to global remote collaboration & opportunities
     </td>
   </tr>
 </table>
@@ -131,19 +131,19 @@ $ cat << 'EOF' > profile.md
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/Mukh74r">
-          <img src="https://github-readme-stats.vercel.app/api?username=Mukh74r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&cache_seconds=1800" alt="GitHub Stats" width="400" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mukh74r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/Mukh74r">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukh74r&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&cache_seconds=1800" alt="Top Languages" width="370" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mukh74r&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41" alt="Top Languages" width="370" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=Mukh74r&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681" alt="Streak Stats" width="95%" />
+        <a href="https://github.com/Mukh74r">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukh74r&theme=tokyonight&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681&hide_border=true" alt="Streak Stats" width="95%" />
         </a>
       </td>
     </tr>
