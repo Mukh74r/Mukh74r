@@ -19,6 +19,10 @@
     <img src="https://img.shields.io/badge/GitHub-Mukh74r-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
+  <a href="https://ko-fi.com/mukh74r" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+  &nbsp;
   <a href="mailto:thaju6745@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-thaju6745-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -175,6 +179,10 @@ $ cat << 'EOF' > profile.md
   &nbsp;
   <a href="https://github.com/Mukh74r" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%40Mukh74r-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://ko-fi.com/mukh74r" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 
   <br/><br/>
