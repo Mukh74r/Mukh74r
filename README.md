@@ -141,7 +141,7 @@ $ cat << 'EOF' > profile.md
   <br/><br/>
 
   <a href="https://github.com/Mukh74r">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mukh74r&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681&timezone=Asia/Kolkata&cache_seconds=1800" alt="GitHub Contribution Streak" width="750" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mukh74r&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=8B949E&dates=6E7681&timezone=Asia/Kolkata&cache_seconds=60" alt="GitHub Contribution Streak" width="750" />
   </a>
 
   <br/><br/>
