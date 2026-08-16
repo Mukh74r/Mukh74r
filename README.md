@@ -39,7 +39,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠  About Me
 
 ```bash
 $ cat << 'EOF' > profile.md
