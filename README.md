@@ -150,7 +150,7 @@ $ cat << 'EOF' > profile.md
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukh74r&bg_color=0D1117&color=8B949E&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=10&days=35" alt="Contribution Activity Graph" width="750" />
   </a>
 
-  <br/><br/>
+  <br/><br/> 
 
   <!-- TryHackMe Badge -->
   <a href="https://tryhackme.com/p/ospoks" target="_blank">
