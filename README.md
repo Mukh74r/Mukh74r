@@ -147,7 +147,7 @@ $ cat << 'EOF' > profile.md
   <br/><br/>
 
   <a href="https://github.com/Mukh74r">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMukh74r&bg_color=0D1117&color=8B949E&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=10&days=35" alt="Contribution Activity Graph" width="750" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukh74r&bg_color=0D1117&color=8B949E&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity&radius=10&days=35" alt="Contribution Activity Graph" width="750" />
   </a>
 
   <br/><br/> 
