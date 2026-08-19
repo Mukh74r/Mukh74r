@@ -84,7 +84,7 @@ $ cat << 'EOF' > profile.md
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,sass,bootstrap,vite,figma&perline=10&theme=dark" alt="Frontend" /> |
 | **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,firebase,nginx&perline=10&theme=dark" alt="Backend" /> |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,azure,git,github,githubactions&perline=10&theme=dark" alt="DevOps" /> |
-| **AI, ML & Deep Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10&theme=dark" alt="AI Frameworks" /><br/>`CUDA` • `Hugging Face` • `PEFT / TRL` • `Unsloth` • `LLaMA-Factory` • `OpenAI API` • `Pandas / NumPy` |
+| **AI , ML & Deep Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10&theme=dark" alt="AI Frameworks" /><br/>`CUDA` • `Hugging Face` • `PEFT / TRL` • `Unsloth` • `LLaMA-Factory` • `OpenAI API` • `Pandas / NumPy` |
 | **Security & Pentesting** | <img src="https://skillicons.dev/icons?i=kali,bash&perline=10&theme=dark" alt="Security OS" /><br/>`Burp Suite` • `Metasploit` • `Nmap` • `Wireshark` • `Nuclei` • `Hack The Box` |
 | **Hardware & IoT** | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=10&theme=dark" alt="IoT" /><br/>`ESP32` • `Microcontrollers` • `ARM / Embedded C` |
 
