@@ -54,7 +54,7 @@ $ cat << 'EOF' > profile.md
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      🔭 <b>Currently Building:</b> Scalable web platforms, AI agentic systems & SecOps automation
+      🔭 <b>Currently Building:</b> <a href="https://github.com/Mukh74r/emotion-context"><b>Emotion Context</b></a> (anti-sycophancy AI browser extension) & SecOps automation
     </td>
     <td width="50%">
       🛡️ <b>Security Focus:</b> AppSec, penetration testing, network forensics & hardening
@@ -121,6 +121,52 @@ $ cat << 'EOF' > profile.md
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+### ⭐ Featured Open Source Project
+
+<div align="center">
+
+### [🧭 Emotion Context — Anti-Sycophancy AI Tone Directives](https://github.com/Mukh74r/emotion-context)
+
+<p align="center">
+  <a href="https://github.com/Mukh74r/emotion-context"><img src="https://img.shields.io/github/v/release/Mukh74r/emotion-context?style=for-the-badge&color=00FF41&label=LATEST%20RELEASE" alt="Latest Release" /></a>
+  &nbsp;
+  <a href="https://github.com/Mukh74r/emotion-context/actions/workflows/ci.yml"><img src="https://img.shields.io/badge/CI-Passing-00FF41?style=for-the-badge&logo=githubactions&logoColor=0d1117" alt="CI Status" /></a>
+  &nbsp;
+  <a href="https://github.com/Mukh74r/emotion-context/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /></a>
+  &nbsp;
+  <a href="https://github.com/Mukh74r/emotion-context"><img src="https://img.shields.io/badge/Manifest-V3-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Manifest V3" /></a>
+</p>
+
+<p align="center">
+  An open-source, privacy-first browser extension (Chrome, Edge, Firefox) that analyzes the emotional tone and conversational posture of draft messages in AI chats (ChatGPT, Claude, Gemini). Just before sending, it injects an <b>objective formatting directive</b> with an <b>epistemic guardrail</b> so models deliver direct, concise fixes without sycophancy or conversational filler.
+</p>
+
+<br/>
+
+<a href="https://github.com/Mukh74r/emotion-context">
+  <img src="https://raw.githubusercontent.com/Mukh74r/emotion-context/main/assets/demo.gif" alt="Emotion Context Demo Animation" width="800" />
+</a>
+
+<br/><br/>
+
+`TypeScript` • `Vite` • `Manifest V3` • `Vitest` • `On-Device Heuristics` • `100% Offline by Default`
+
+<br/><br/>
+
+<a href="https://github.com/Mukh74r/emotion-context" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Repository-00FF41?style=for-the-badge&logo=github&logoColor=0d1117" alt="View Repository" />
+</a>
+&nbsp;
+<a href="https://github.com/Mukh74r/emotion-context/releases/tag/v0.1.0" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20v0.1.0-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Release" />
+</a>
+
+</div>
 
 <br/>
 
