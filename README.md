@@ -143,7 +143,7 @@ $ cat << 'EOF' > profile.md
 </p>
 
 <p align="center">
-  An open-source, privacy-first browser extension (Chrome, Edge, Firefox) that analyzes the emotional tone and conversational posture of draft messages in AI chats (ChatGPT, Claude, Gemini). Just before sending, it injects an <b>objective formatting directive</b> with an <b>epistemic guardrail</b> so models deliver direct, concise fixes without sycophancy or conversational filler.
+  An open-source, privacy first browser extension (Chrome, Edge, Firefox) that analyzes the emotional tone and conversational posture of draft messages in AI chats (ChatGPT, Claude, Gemini). Just before sending, it injects an <b>objective formatting directive</b> with an <b>epistemic guardrail</b> so models deliver direct, concise fixes without sycophancy or conversational filler.
 </p>
 
 <br/>
